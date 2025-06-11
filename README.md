@@ -34,7 +34,7 @@ Use the following instruction
 ### API Documentation Link :
 https://documenter.getpostman.com/view/45657327/2sB2x5FsEo
 
-### Text Case
+### Text Case :
 
 ### Bug Report
 
