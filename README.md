@@ -35,7 +35,7 @@ Use the following instruction
 https://documenter.getpostman.com/view/45657327/2sB2x5FsEo
 
 ### Text Case :
-
+https://docs.google.com/spreadsheets/d/1YHMBD83Zh1xdbZYqppHYdx5Yh79wXDzt/edit?usp=sharing&ouid=104160821500333303282&rtpof=true&sd=true
 ### Bug Report
 
 ##### Caution : You have must .env file to run this project
